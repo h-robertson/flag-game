@@ -1,4 +1,4 @@
-import PropTypes from "prop-types";
+import PropTypes, { string } from "prop-types";
 import Tile from "./tiles/tile";
 import styled from "styled-components";
 
@@ -32,7 +32,7 @@ const DUMMY_TILE_DATA = [
 const Round = ({ round_index, current_country, handleSelect }) => {
 	return (
 		<>
-			<h2>COUNTRY: {current_country}</h2>
+			<h2>COUNTRY: {current_country.name}</h2>
 			<Grid>
 				{DUMMY_TILE_DATA.map((data, i) => (
 					<Tile
@@ -55,7 +55,10 @@ const Grid = styled.div`
 Round.propTypes = {
 	tileData: PropTypes.array,
 	round_index: PropTypes.number,
-	current_country: PropTypes.string,
+	current_country: PropTypes.shape({
+		name: PropTypes.string,
+		iso_code: PropTypes.string,
+	}),
 };
 
 export default Round;

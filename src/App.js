@@ -4,10 +4,13 @@ import Round from "./round";
 function App() {
 	const [round, setRound] = useState(0);
 	const [streak, setStreak] = useState(0);
-	const [current_country_code, setCurrentCountryCode] = useState("POL");
+	const [current_country, setCurrentCountry] = useState({
+		name: "Poland",
+		iso_code: "POL",
+	});
 
 	const handleSelect = (selected_iso_code) => {
-		const is_correct = selected_iso_code === current_country_code;
+		const is_correct = selected_iso_code === current_country.iso_code;
 		const total_rounds = 3;
 		if (is_correct) {
 			if (round < total_rounds) {
@@ -37,7 +40,7 @@ function App() {
 			<div>streak: {streak}</div>
 			<Round
 				round_index={round}
-				current_country_code={current_country_code}
+				current_country={current_country}
 				handleSelect={handleSelect}
 			/>
 		</div>
