@@ -1,11 +1,12 @@
 import styled from "styled-components";
 
-const BaseTileWrapper = styled.div`
+export const BaseTile = styled.div`
 	border: 2px solid blue;
-`;
-
-export const CapitalTileWrapper = styled(BaseTileWrapper)`
-	border: 1px solid black;
-	padding: 30px;
-	text-align: center;
+	width: 400px;
+	justify-self: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 2rem;
+	height: 300px;
 `;

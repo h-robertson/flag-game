@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import Round from "./round";
+import "./style.css";
 
 function App() {
 	const [round, setRound] = useState(0);

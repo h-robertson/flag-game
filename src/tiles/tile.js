@@ -6,11 +6,11 @@ import { BorderTile } from "./border-tile";
 
 const Tile = ({ round_index, ...props }) => {
 	switch (round_index) {
-		case 0:
+		case 2:
 			return <CapitalTile {...props} />;
 		case 1:
 			return <FlagTile {...props} />;
-		case 2:
+		case 0:
 			return <ShapeTile {...props} />;
 		case 3:
 			return <BorderTile {...props} />;
