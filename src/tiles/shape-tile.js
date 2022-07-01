@@ -16,9 +16,7 @@ export const ShapeTile = ({ shape_url, handleSelect, iso_code }) => {
 
 		if (svgRef.current) {
 			fetchData().then((data) => {
-				const centroid = geoPath().centroid(data);
 				const projection = geoMercator()
-					.center(centroid)
 					.rotate([0, 0])
 					.fitSize(
 						[
@@ -29,19 +27,20 @@ export const ShapeTile = ({ shape_url, handleSelect, iso_code }) => {
 					);
 
 				const path = geoPath().projection(projection);
-				const geometry = path(data);
 
-				select(svgRef.current)
-					.append("path")
-					.attr("d", geometry)
-					.attr("fill", "red");
+				const g = select(svgRef.current).append("g");
+
+				g.selectAll("path")
+					.data(data.features ? data.features : [data]) // just in case someone passes a single Feature
+					.join("path")
+					.attr("d", path);
 			});
 		}
 	}, []);
 
 	return (
 		<Wrapper onClick={() => handleSelect(iso_code)}>
-			<svg ref={svgRef}></svg>
+			<svg width="100%" height="100%" ref={svgRef}></svg>
 		</Wrapper>
 	);
 };

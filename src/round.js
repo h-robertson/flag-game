@@ -1,4 +1,4 @@
-import PropTypes, { string } from "prop-types";
+import PropTypes from "prop-types";
 import Tile from "./tiles/tile";
 import styled from "styled-components";
 
@@ -8,32 +8,35 @@ const DUMMY_TILE_DATA = [
 		iso_code: "RWA",
 		capital: "Kigali",
 		image_url: "https://public.flourish.studio/country-flags/svg/rw.svg",
-		shape_url:
-			"https://raw.githubusercontent.com/georgique/world-geojson/master/countries/egypt.json",
+		borders: ["Uganda", "Tanzania", "Burundi", "D.R. Congo"],
 	},
 	{
-		name: "Kiribati",
-		iso_code: "KIR",
-		capital: "Tarawa",
-		image_url: "https://public.flourish.studio/country-flags/svg/ki.svg",
-		shape_url:
-			"https://raw.githubusercontent.com/georgique/world-geojson/master/countries/poland.json",
+		name: "Egypt",
+		iso_code: "EGY",
+		capital: "Cairo",
+		image_url: "https://public.flourish.studio/country-flags/svg/eg.svg",
+		borders: ["Libya", "Sudan", "Israel"],
 	},
 	{
 		name: "Poland",
 		iso_code: "POL",
 		capital: "Warsaw",
 		image_url: "https://public.flourish.studio/country-flags/svg/pl.svg",
-		shape_url:
-			"https://raw.githubusercontent.com/georgique/world-geojson/master/countries/poland.json",
+		borders: [
+			"Germany",
+			"Ukraine",
+			"Russia",
+			"Belarus",
+			"Czech Republic",
+			"Lithuania",
+		],
 	},
 	{
 		name: "Peru",
 		iso_code: "PER",
 		capital: "Lima",
 		image_url: "https://public.flourish.studio/country-flags/svg/pe.svg",
-		shape_url:
-			"https://raw.githubusercontent.com/georgique/world-geojson/master/countries/poland.json",
+		borders: ["Ecuador", "Colombia", "Bolivia", "Chile", "Brazil"],
 	},
 ];
 
