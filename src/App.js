@@ -14,9 +14,11 @@ function App() {
 				setRound((prev_round) => prev_round + 1);
 			} else {
 				setStreak((prev_streak) => prev_streak + 1);
+				setRound(0);
 			}
 		} else {
 			setStreak(0);
+			setRound(0);
 			// soem ui stuff
 		}
 	};

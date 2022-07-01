@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const CapitalTile = ({ capital, handleSelect, iso_code }) => {
+export const ShapeTile = ({ capital, handleSelect, iso_code }) => {
 	return <Wrapper onClick={() => handleSelect(iso_code)}>{capital}</Wrapper>;
 };
 
