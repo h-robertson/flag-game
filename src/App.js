@@ -1,35 +1,45 @@
-import logo from './logo.svg';
-import './App.css';
-import {useEffect, useState} from 'react'
+import { useEffect, useState } from "react";
+import Round from "./round";
 
 function App() {
-	const [counter, setCounter] = useState(0)
+	const [round, setRound] = useState(0);
+	const [streak, setStreak] = useState(0);
+	const [current_country_code, setCurrentCountryCode] = useState("POL");
 
+	const handleSelect = (selected_iso_code) => {
+		const is_correct = selected_iso_code === current_country_code;
+		const total_rounds = 3;
+		if (is_correct) {
+			if (round < total_rounds) {
+				setRound((prev_round) => prev_round + 1);
+			} else {
+				setStreak((prev_streak) => prev_streak + 1);
+			}
+		} else {
+			setStreak(0);
+			// soem ui stuff
+		}
+	};
 
-	useEffect(()=>{
-		console.log("counter changed", counter)
-	}, [counter])
+	useEffect(() => {
+		// go back to showing the country tiles (start of new set)
+	}, [streak]);
 
-	function incrementCounter(){
-		setCounter(counter+1)
-	}
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          {counter > 4 ? <p> greater </p> : counter}
-        </p>
-        <button
-          className="App-link"
-          rel="noopener noreferrer"
-		  onClick={incrementCounter}
-        >
-          {counter}
-        </button>
-      </header>
-    </div>
-  );
+	useEffect(() => {
+		// go to the next round of that set
+	}, [round]);
+
+	return (
+		<div className="App">
+			<div>Round: {round + 1}</div>
+			<div>streak: {streak}</div>
+			<Round
+				round_index={round}
+				current_country_code={current_country_code}
+				handleSelect={handleSelect}
+			/>
+		</div>
+	);
 }
 
 export default App;
