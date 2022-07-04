@@ -1,0 +1,239 @@
+,iso_code,name,region,sub-region,flag,capital,area,population,continent,country_border_name
+0,DZA,Algeria,Africa,Northern Africa,https://public.flourish.studio/country-flags/svg/dz.svg,Algiers,"2,381,740.00","42,228,429",AF,"['Libya', 'Mali', 'Mauritania', 'Morocco', 'Niger', 'Tunisia', 'Western Sahara']"
+1,AGO,Angola,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/ao.svg,Luanda,"1,246,700.00","30,809,762",AF,"['Congo', 'Congo (the Democratic Republic of the)', 'Namibia', 'Zambia']"
+2,BEN,Benin,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/bj.svg,Porto-Novo,"112,620.00","11,485,048",AF,"['Burkina Faso', 'Niger', 'Nigeria', 'Togo']"
+3,BWA,Botswana,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/bw.svg,Gaborone,"600,370.00","2,254,126",AF,"['Namibia', 'South Africa', 'Zambia', 'Zimbabwe']"
+4,IOT,British Indian Ocean Territory,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/io.svg,Diego Garcia,60,"4,000",AS,
+5,BFA,Burkina Faso,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/bf.svg,Ouagadougou,"274,200.00","19,751,535",AF,"['Benin', 'Cote d’Ivoire', 'Ghana', 'Mali', 'Niger', 'Togo']"
+6,BDI,Burundi,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/bi.svg,Gitega,"27,830.00","11,175,378",AF,"['Congo (the Democratic Republic of the)', 'Rwanda', 'Tanzania (the United Republic of)']"
+7,CMR,Cameroon,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/cm.svg,Yaounde,"475,440.00","25,216,237",AF,"['Central African Republic', 'Chad', 'Congo', 'Equatorial Guinea', 'Gabon', 'Nigeria']"
+8,CPV,Cape Verde,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/cv.svg,Praia,"4,033.00","543,767",AF,
+9,CAF,Central African Republic,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/cf.svg,Bangui,"622,984.00","4,666,377",AF,"['Cameroon', 'Chad', 'Congo', 'Congo (the Democratic Republic of the)', 'South Sudan', 'Sudan']"
+10,TCD,Chad,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/td.svg,N'Djamena,"1,284,000.00","15,477,751",AF,"['Cameroon', 'Central African Republic', 'Libya', 'Niger', 'Nigeria', 'Sudan']"
+11,COM,Comoros,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/km.svg,Moroni,"2,170.00","832,322",AF,
+12,COD,Democratic Republic of the Congo,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/cd.svg,Kinshasa,"2,345,410.00","84,068,091",AF,"['Angola', 'Burundi', 'Central African Republic', 'Congo', 'Rwanda', 'South Sudan', 'Tanzania (the United Republic of)', 'Uganda', 'Zambia']"
+13,DJI,Djibouti,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/dj.svg,Djibouti,"23,000.00","958,920",AF,"['Eritrea', 'Ethiopia', 'Somalia']"
+14,EGY,Egypt,Africa,Northern Africa,https://public.flourish.studio/country-flags/svg/eg.svg,Cairo,"1,001,450.00","98,423,595",AF,"['Israel', 'Libya', 'Palestine, State of', 'Sudan']"
+15,GNQ,Equatorial Guinea,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/gq.svg,Malabo,"28,051.00","1,308,974",AF,"['Cameroon', 'Gabon']"
+16,ERI,Eritrea,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/er.svg,Asmara,"121,320.00",0,AF,"['Djibouti', 'Ethiopia', 'Sudan']"
+17,SWZ,eSwatini,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/sz.svg,Mbabane,"17,363.00","1,136,191",AF,"['Mozambique', 'South Africa']"
+18,ETH,Ethiopia,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/et.svg,Addis Ababa,"1,127,127.00","109,224,559",AF,"['Djibouti', 'Eritrea', 'Kenya', 'Somalia', 'South Sudan', 'Sudan']"
+19,ATF,French Southern and Antarctic Lands,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/tf.svg,Port-aux-Francais,"7,829.00",140,AN,
+20,GAB,Gabon,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/ga.svg,Libreville,"267,667.00","2,119,275",AF,"['Cameroon', 'Congo', 'Equatorial Guinea']"
+21,GHA,Ghana,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/gh.svg,Accra,"239,460.00","29,767,108",AF,"['Burkina Faso', 'Cote d’Ivoire', 'Togo']"
+22,GIN,Guinea,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/gn.svg,Conakry,"245,857.00","12,414,318",AF,"['Cote d’Ivoire', 'Guinea-Bissau', 'Liberia', 'Mali', 'Senegal', 'Sierra Leone']"
+23,GNB,Guinea-Bissau,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/gw.svg,Bissau,"36,120.00","1,874,309",AF,"['Guinea', 'Senegal']"
+24,CIV,Ivory Coast,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/ci.svg,Yamoussoukro,"322,460.00","25,069,229",AF,"['Burkina Faso', 'Ghana', 'Guinea', 'Liberia', 'Mali']"
+25,KEN,Kenya,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/ke.svg,Nairobi,"582,650.00","51,393,010",AF,"['Ethiopia', 'Somalia', 'South Sudan', 'Tanzania (the United Republic of)', 'Uganda']"
+26,LSO,Lesotho,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/ls.svg,Maseru,"30,355.00","2,108,132",AF,['South Africa']
+27,LBR,Liberia,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/lr.svg,Monrovia,"111,370.00","4,818,977",AF,"['Cote d’Ivoire', 'Guinea', 'Sierra Leone']"
+28,LBY,Libya,Africa,Northern Africa,https://public.flourish.studio/country-flags/svg/ly.svg,Tripoli,"1,759,540.00","6,678,567",AF,"['Algeria', 'Chad', 'Egypt', 'Niger', 'Sudan', 'Tunisia']"
+29,MDG,Madagascar,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/mg.svg,Antananarivo,"587,040.00","26,262,368",AF,
+30,MWI,Malawi,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/mw.svg,Lilongwe,"118,480.00","17,563,749",AF,"['Mozambique', 'Tanzania (the United Republic of)', 'Zambia']"
+31,MLI,Mali,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/ml.svg,Bamako,"1,240,000.00","19,077,690",AF,"['Algeria', 'Burkina Faso', 'Cote d’Ivoire', 'Guinea', 'Mauritania', 'Niger', 'Senegal']"
+32,MRT,Mauritania,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/mr.svg,Nouakchott,"1,030,700.00","4,403,319",AF,"['Algeria', 'Mali', 'Senegal', 'Western Sahara']"
+33,MUS,Mauritius,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/mu.svg,Port Louis,"2,040.00","1,265,303",AF,
+34,MAR,Morocco,Africa,Northern Africa,https://public.flourish.studio/country-flags/svg/ma.svg,Rabat,"446,550.00","36,029,138",AF,"['Algeria', 'Spain', 'Western Sahara']"
+35,MOZ,Mozambique,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/mz.svg,Maputo,"801,590.00","29,495,962",AF,"['Malawi', 'Eswatini', 'South Africa', 'Tanzania (the United Republic of)', 'Zambia', 'Zimbabwe']"
+36,NAM,Namibia,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/na.svg,Windhoek,"825,418.00","2,448,255",AF,
+37,NER,Niger,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/ne.svg,Niamey,"1,267,000.00","22,442,948",AF,"['Algeria', 'Benin', 'Burkina Faso', 'Chad', 'Libya', 'Mali', 'Nigeria']"
+38,NGA,Nigeria,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/ng.svg,Abuja,"923,768.00","195,874,740",AF,"['Benin', 'Cameroon', 'Chad', 'Niger']"
+39,COG,Republic of the Congo,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/cg.svg,Brazzaville,"342,000.00","5,244,363",AF,"['Angola', 'Cameroon', 'Central African Republic', 'Congo (the Democratic Republic of the)', 'Gabon']"
+40,RWA,Rwanda,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/rw.svg,Kigali,"26,338.00","12,301,939",AF,"['Burundi', 'Congo (the Democratic Republic of the)', 'Tanzania (the United Republic of)', 'Uganda']"
+41,SHN,Saint Helena,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/sh.svg,Jamestown,410,"7,460",AF,
+42,STP,São Tomé and Príncipe,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/st.svg,Sao Tome,"1,001.00","197,700",AF,
+43,SEN,Senegal,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/sn.svg,Dakar,"196,190.00","15,854,360",AF,"['Gambia (the)', 'Guinea', 'Guinea-Bissau', 'Mali', 'Mauritania']"
+44,SYC,Seychelles,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/sc.svg,Victoria,455,"96,762",AF,
+45,SLE,Sierra Leone,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/sl.svg,Freetown,"71,740.00","7,650,154",AF,"['Guinea', 'Liberia']"
+46,SOM,Somalia,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/so.svg,Mogadishu,"637,657.00","15,008,154",AF,"['Djibouti', 'Ethiopia', 'Kenya']"
+47,ZAF,South Africa,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/za.svg,Pretoria,"1,219,912.00","57,779,622",AF,"['Botswana', 'Lesotho', 'Mozambique', 'Namibia', 'Eswatini', 'Zimbabwe']"
+48,SSD,South Sudan,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/ss.svg,Juba,"644,329.00","8,260,490",AF,"['Central African Republic', 'Congo (the Democratic Republic of the)', 'Ethiopia', 'Kenya', 'Sudan', 'Uganda']"
+49,SDN,Sudan,Africa,Northern Africa,https://public.flourish.studio/country-flags/svg/sd.svg,Khartoum,"1,861,484.00","41,801,533",AF,"['Central African Republic', 'Chad', 'Egypt', 'Ethiopia', 'Eritrea', 'Libya', 'South Sudan']"
+50,TZA,Tanzania,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/tz.svg,Dodoma,"945,087.00","56,318,348",AF,"['Burundi', 'Congo (the Democratic Republic of the)', 'Kenya', 'Malawi', 'Mozambique', 'Rwanda', 'Uganda', 'Zambia']"
+51,GMB,The Gambia,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/gm.svg,Banjul,"11,300.00","2,280,102",AF,['Senegal']
+52,TGO,Togo,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/tg.svg,Lome,"56,785.00","7,889,094",AF,"['Benin', 'Burkina Faso', 'Ghana']"
+53,TUN,Tunisia,Africa,Northern Africa,https://public.flourish.studio/country-flags/svg/tn.svg,Tunis,"163,610.00","11,565,204",AF,"['Algeria', 'Libya']"
+54,UGA,Uganda,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/ug.svg,Kampala,"236,040.00","42,723,139",AF,"['Congo (the Democratic Republic of the)', 'Kenya', 'Rwanda', 'South Sudan', 'Tanzania (the United Republic of)']"
+55,ESH,Western Sahara,Africa,Northern Africa,https://public.flourish.studio/country-flags/svg/eh.svg,El-Aaiun,"266,000.00","273,008",AF,"['Algeria', 'Mauritania', 'Morocco']"
+56,ZMB,Zambia,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/zm.svg,Lusaka,"752,614.00","17,351,822",AF,"['Angola', 'Botswana', 'Congo (the Democratic Republic of the)', 'Malawi', 'Mozambique', 'Namibia', 'Tanzania (the United Republic of)', 'Zimbabwe']"
+57,ZWE,Zimbabwe,Africa,Sub-Saharan Africa,https://public.flourish.studio/country-flags/svg/zw.svg,Harare,"390,580.00","14,439,018",AF,"['Botswana', 'Mozambique', 'South Africa', 'Zambia']"
+58,AIA,Anguilla,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/ai.svg,The Valley,102,"13,254",,
+59,ATG,Antigua and Barbuda,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/ag.svg,St. John's,443,"96,286",,
+60,ARG,Argentina,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/ar.svg,Buenos Aires,"2,766,890.00","44,494,502",SA,"['Bolivia (Plurinational State Of)', 'Brazil', 'Chile', 'Paraguay', 'Uruguay']"
+61,ABW,Aruba,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/aw.svg,Oranjestad,193,"105,845",,
+62,BRB,Barbados,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/bb.svg,Bridgetown,431,"286,641",,
+63,BLZ,Belize,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/bz.svg,Belmopan,"22,966.00","383,071",,"['Guatemala', 'Mexico']"
+64,BMU,Bermuda,Americas,Northern America,https://public.flourish.studio/country-flags/svg/bm.svg,Hamilton,53,"63,968",,
+65,BOL,Bolivia,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/bo.svg,Sucre,"1,098,580.00","11,353,142",SA,"['Argentina', 'Brazil', 'Chile', 'Paraguay', 'Peru']"
+66,BRA,Brazil,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/br.svg,Brasilia,"8,511,965.00","209,469,333",SA,"['Argentina', 'Bolivia (Plurinational State Of)', 'Colombia', 'French Guiana', 'Guyana', 'Paraguay', 'Peru', 'Suriname', 'Uruguay', 'Venezuela (Bolivarian Republic of)']"
+67,VGB,British Virgin Islands,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/vg.svg,Road Town,153,"29,802",,
+68,CAN,Canada,Americas,Northern America,https://public.flourish.studio/country-flags/svg/ca.svg,Ottawa,"9,984,670.00","37,058,856",,['United States of America']
+69,CYM,Cayman Islands,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/ky.svg,George Town,262,"64,174",,
+70,CHL,Chile,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/cl.svg,Santiago,"756,950.00","18,729,160",SA,"['Argentina', 'Bolivia (Plurinational State Of)', 'Peru']"
+71,COL,Colombia,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/co.svg,Bogota,"1,138,910.00","49,648,685",SA,"['Brazil', 'Ecuador', 'Panama', 'Peru', 'Venezuela (Bolivarian Republic of)']"
+72,CRI,Costa Rica,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/cr.svg,San Jose,"51,100.00","4,999,441",,"['Nicaragua', 'Panama']"
+73,CUB,Cuba,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/cu.svg,Havana,"110,860.00","11,338,138",,
+74,CUW,Curaçao,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/cw.svg,Willemstad,444,"159,849",,
+75,DMA,Dominica,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/dm.svg,Roseau,754,"71,625",,
+76,DOM,Dominican Republic,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/do.svg,Santo Domingo,"48,730.00","10,627,165",,['Haiti']
+77,ECU,Ecuador,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/ec.svg,Quito,"283,560.00","17,084,357",SA,"['Colombia', 'Peru']"
+78,SLV,El Salvador,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/sv.svg,San Salvador,"21,040.00","6,420,744",,"['Guatemala', 'Honduras']"
+79,FLK,Falkland Islands,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/fk.svg,Stanley,"12,173.00","2,638",SA,
+80,GRL,Greenland,Americas,Northern America,https://public.flourish.studio/country-flags/svg/gl.svg,Nuuk,"2,166,086.00","56,025",,
+81,GRD,Grenada,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/gd.svg,St. George's,344,"111,454",,
+82,GTM,Guatemala,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/gt.svg,Guatemala City,"108,890.00","17,247,807",,"['Belize', 'El Salvador', 'Honduras', 'Mexico']"
+83,GUY,Guyana,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/gy.svg,Georgetown,"214,970.00","779,004",SA,"['Brazil', 'Suriname', 'Venezuela (Bolivarian Republic of)']"
+84,HTI,Haiti,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/ht.svg,Port-au-Prince,"27,750.00","11,123,176",,['Dominican Republic']
+85,HND,Honduras,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/hn.svg,Tegucigalpa,"112,090.00","9,587,522",,"['El Salvador', 'Guatemala', 'Nicaragua']"
+86,JAM,Jamaica,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/jm.svg,Kingston,"10,991.00","2,934,855",,
+87,MEX,Mexico,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/mx.svg,Mexico City,"1,972,550.00","126,190,788",,"['Belize', 'Guatemala', 'United States of America']"
+88,MSR,Montserrat,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/ms.svg,Plymouth,102,"9,341",,
+89,NIC,Nicaragua,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/ni.svg,Managua,"129,494.00","6,465,513",,"['Costa Rica', 'Honduras']"
+90,PAN,Panama,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/pa.svg,Panama City,"78,200.00","4,176,873",,"['Colombia', 'Costa Rica']"
+91,PRY,Paraguay,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/py.svg,Asuncion,"406,750.00","6,956,071",SA,"['Argentina', 'Bolivia (Plurinational State Of)', 'Brazil']"
+92,PER,Peru,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/pe.svg,Lima,"1,285,220.00","31,989,256",SA,"['Bolivia (Plurinational State Of)', 'Brazil', 'Chile', 'Colombia', 'Ecuador']"
+93,PRI,Puerto Rico,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/pr.svg,San Juan,"9,104.00","3,195,153",,
+94,KNA,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/kn.svg,Basseterre,261,"52,441",,
+95,LCA,Saint Lucia,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/lc.svg,Castries,616,"181,889",,
+96,MAF,Saint Martin,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/mf.svg,Marigot,53,"37,264",,['Sint Maarten (Dutch part)']
+97,SPM,Saint Pierre and Miquelon,Americas,Northern America,https://public.flourish.studio/country-flags/svg/pm.svg,Saint-Pierre,242,"7,012",,
+98,VCT,Saint Vincent and the Grenadines,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/vc.svg,Kingstown,389,"110,211",,
+99,BLM,Saint-Barthélemy,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/bl.svg,Gustavia,21,"8,450",,
+100,SXM,Sint Maarten,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/sx.svg,Philipsburg,21,"40,654",,['Saint Martin (French part)']
+101,SGS,South Georgia and the South Sandwich Islands,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/gs.svg,Grytviken,"3,903.00",30,AN,
+102,SUR,Suriname,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/sr.svg,Paramaribo,"163,270.00","575,991",SA,"['Brazil', 'French Guiana', 'Guyana']"
+103,BHS,The Bahamas,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/bs.svg,Nassau,"13,940.00","385,640",,
+104,TTO,Trinidad and Tobago,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/tt.svg,Port of Spain,"5,128.00","1,389,858",,
+105,TCA,Turks and Caicos Islands,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/tc.svg,Cockburn Town,430,"37,665",,
+106,USA,United States of America,Americas,Northern America,https://public.flourish.studio/country-flags/svg/us.svg,Washington,"9,629,091.00","327,167,434",,"['Canada', 'Mexico']"
+107,VIR,United States Virgin Islands,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/vi.svg,Charlotte Amalie,352,"106,977",,
+108,URY,Uruguay,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/uy.svg,Montevideo,"176,220.00","3,449,299",SA,"['Argentina', 'Brazil']"
+109,VEN,Venezuela,Americas,Latin America and the Caribbean,https://public.flourish.studio/country-flags/svg/ve.svg,Caracas,"912,050.00","28,870,195",SA,"['Brazil', 'Colombia', 'Guyana']"
+110,AFG,Afghanistan,Asia,Southern Asia,https://public.flourish.studio/country-flags/svg/af.svg,Kabul,"647,500.00","37,172,386",AS,"['China', 'Iran (Islamic Republic of)', 'Pakistan', 'Tajikistan', 'Turkmenistan', 'Uzbekistan']"
+111,ARM,Armenia,Asia,Western Asia,https://public.flourish.studio/country-flags/svg/am.svg,Yerevan,"29,800.00","2,951,776",AS,"['Azerbaijan', 'Georgia', 'Iran (Islamic Republic of)', 'Turkey']"
+112,AZE,Azerbaijan,Asia,Western Asia,https://public.flourish.studio/country-flags/svg/az.svg,Baku,"86,600.00","9,942,334",AS,"['Armenia', 'Georgia', 'Iran (Islamic Republic of)', 'Russian Federation', 'Turkey']"
+113,BHR,Bahrain,Asia,Western Asia,https://public.flourish.studio/country-flags/svg/bh.svg,Manama,665,"1,569,439",AS,
+114,BGD,Bangladesh,Asia,Southern Asia,https://public.flourish.studio/country-flags/svg/bd.svg,Dhaka,"144,000.00","161,356,039",AS,"['India', 'Myanmar']"
+115,BTN,Bhutan,Asia,Southern Asia,https://public.flourish.studio/country-flags/svg/bt.svg,Thimphu,"47,000.00","754,394",AS,"['China', 'India']"
+116,BRN,Brunei,Asia,South-eastern Asia,https://public.flourish.studio/country-flags/svg/bn.svg,Bandar Seri Begawan,"5,770.00","428,962",AS,['Malaysia']
+117,KHM,Cambodia,Asia,South-eastern Asia,https://public.flourish.studio/country-flags/svg/kh.svg,Phnom Penh,"181,040.00","16,249,798",AS,"[""Lao People's Democratic Republic"", 'Thailand', 'Viet Nam']"
+118,CYP,Cyprus,Asia,Western Asia,https://public.flourish.studio/country-flags/svg/cy.svg,Nicosia,"9,250.00","1,189,265",EU,
+119,TLS,East Timor,Asia,South-eastern Asia,https://public.flourish.studio/country-flags/svg/tl.svg,Dili,"15,007.00","1,267,972",OC,['Indonesia']
+120,GEO,Georgia,Asia,Western Asia,https://public.flourish.studio/country-flags/svg/ge.svg,Tbilisi,"69,700.00","3,731,000",AS,"['Armenia', 'Azerbaijan', 'Russian Federation', 'Turkey']"
+121,HKG,Hong Kong,Asia,Eastern Asia,https://public.flourish.studio/country-flags/svg/hk.svg,Hong Kong,"1,092.00","7,451,000",AS,['China']
+122,IND,India,Asia,Southern Asia,https://public.flourish.studio/country-flags/svg/in.svg,New Delhi,"3,287,590.00","1,352,617,328",AS,"['Bangladesh', 'Bhutan', 'China', 'Myanmar', 'Nepal', 'Pakistan']"
+123,IDN,Indonesia,Asia,South-eastern Asia,https://public.flourish.studio/country-flags/svg/id.svg,Jakarta,"1,919,440.00","267,663,435",AS,"['Malaysia', 'Papua New Guinea', 'Timor-Leste']"
+124,IRN,Iran,Asia,Southern Asia,https://public.flourish.studio/country-flags/svg/ir.svg,Tehran,"1,648,000.00","81,800,269",AS,"['Afghanistan', 'Armenia', 'Azerbaijan', 'Iraq', 'Pakistan', 'Turkey', 'Turkmenistan']"
+125,IRQ,Iraq,Asia,Western Asia,https://public.flourish.studio/country-flags/svg/iq.svg,Baghdad,"437,072.00","38,433,600",AS,"['Iran (Islamic Republic of)', 'Jordan', 'Kuwait', 'Saudi Arabia', 'Syrian Arab Republic', 'Turkey']"
+126,ISR,Israel,Asia,Western Asia,https://public.flourish.studio/country-flags/svg/il.svg,Jerusalem,"20,770.00","8,883,800",AS,"['Egypt', 'Jordan', 'Lebanon', 'Palestine, State of', 'Syrian Arab Republic']"
+127,JPN,Japan,Asia,Eastern Asia,https://public.flourish.studio/country-flags/svg/jp.svg,Tokyo,"377,835.00","126,529,100",AS,
+128,JOR,Jordan,Asia,Western Asia,https://public.flourish.studio/country-flags/svg/jo.svg,Amman,"92,300.00","9,956,011",AS,"['Iraq', 'Israel', 'Palestine, State of', 'Saudi Arabia', 'Syrian Arab Republic']"
+129,KAZ,Kazakhstan,Asia,Central Asia,https://public.flourish.studio/country-flags/svg/kz.svg,Nur-Sultan,"2,717,300.00","18,276,499",AS,"['China', 'Kyrgyzstan', 'Russian Federation', 'Turkmenistan', 'Uzbekistan']"
+130,KWT,Kuwait,Asia,Western Asia,https://public.flourish.studio/country-flags/svg/kw.svg,Kuwait City,"17,820.00","4,137,309",AS,"['Iraq', 'Saudi Arabia']"
+131,KGZ,Kyrgyzstan,Asia,Central Asia,https://public.flourish.studio/country-flags/svg/kg.svg,Bishkek,"198,500.00","6,315,800",AS,"['China', 'Kazakhstan', 'Tajikistan', 'Uzbekistan']"
+132,LAO,Laos,Asia,South-eastern Asia,https://public.flourish.studio/country-flags/svg/la.svg,Vientiane,"236,800.00","7,061,507",AS,"['China', 'Cambodia', 'Myanmar', 'Thailand', 'Viet Nam']"
+133,LBN,Lebanon,Asia,Western Asia,https://public.flourish.studio/country-flags/svg/lb.svg,Beirut,"10,400.00","6,848,925",AS,"['Israel', 'Syrian Arab Republic']"
+134,MAC,Macau,Asia,Eastern Asia,https://public.flourish.studio/country-flags/svg/mo.svg,Macao,254,"631,636",AS,['China']
+135,MYS,Malaysia,Asia,South-eastern Asia,https://public.flourish.studio/country-flags/svg/my.svg,Kuala Lumpur,"329,750.00","31,528,585",AS,"['Brunei Darussalam', 'Indonesia', 'Thailand']"
+136,MDV,Maldives,Asia,Southern Asia,https://public.flourish.studio/country-flags/svg/mv.svg,Male,300,"515,696",AS,
+137,MNG,Mongolia,Asia,Eastern Asia,https://public.flourish.studio/country-flags/svg/mn.svg,Ulaanbaatar,"1,565,000.00","3,170,208",AS,"['China', 'Russian Federation']"
+138,MMR,Myanmar,Asia,South-eastern Asia,https://public.flourish.studio/country-flags/svg/mm.svg,Nay Pyi Taw,"678,500.00","53,708,395",AS,"['Bangladesh', 'China', 'India', ""Lao People's Democratic Republic"", 'Thailand']"
+139,NPL,Nepal,Asia,Southern Asia,https://public.flourish.studio/country-flags/svg/np.svg,Kathmandu,"140,800.00","28,087,871",AS,"['China', 'India']"
+140,PRK,North Korea,Asia,Eastern Asia,https://public.flourish.studio/country-flags/svg/kp.svg,Pyongyang,"120,540.00","25,549,819",AS,"['China', 'Korea (the Republic of)', 'Russian Federation']"
+141,OMN,Oman,Asia,Western Asia,https://public.flourish.studio/country-flags/svg/om.svg,Muscat,"212,460.00","4,829,483",AS,"['United Arab Emirates', 'Saudi Arabia', 'Yemen']"
+142,PAK,Pakistan,Asia,Southern Asia,https://public.flourish.studio/country-flags/svg/pk.svg,Islamabad,"803,940.00","212,215,030",AS,"['Afghanistan', 'China', 'India', 'Iran (Islamic Republic of)']"
+143,PSE,Palestine,Asia,Western Asia,https://public.flourish.studio/country-flags/svg/ps.svg,East Jerusalem,"5,970.00","4,569,087",AS,"['Egypt', 'Israel', 'Jordan']"
+144,CHN,People's Republic of China,Asia,Eastern Asia,https://public.flourish.studio/country-flags/svg/cn.svg,Beijing,"9,596,960.00","1,411,778,724",AS,"['Afghanistan', 'Bhutan', 'Hong Kong', 'India', 'Kazakhstan', ""Korea (Democratic People's Republic of)"", 'Kyrgyzstan', ""Lao People's Democratic Republic"", 'Macao', 'Mongolia', 'Myanmar', 'Nepal', 'Pakistan', 'Russian Federation', 'Tajikistan', 'Viet Nam']"
+145,PHL,Philippines,Asia,South-eastern Asia,https://public.flourish.studio/country-flags/svg/ph.svg,Manila,"300,000.00","106,651,922",AS,
+146,QAT,Qatar,Asia,Western Asia,https://public.flourish.studio/country-flags/svg/qa.svg,Doha,"11,437.00","2,781,677",AS,['Saudi Arabia']
+147,SAU,Saudi Arabia,Asia,Western Asia,https://public.flourish.studio/country-flags/svg/sa.svg,Riyadh,"1,960,582.00","33,699,947",AS,"['Iraq', 'Jordan', 'Kuwait', 'Oman', 'Qatar', 'United Arab Emirates', 'Yemen']"
+148,SGP,Singapore,Asia,South-eastern Asia,https://public.flourish.studio/country-flags/svg/sg.svg,Singapore,692.7,"5,638,676",AS,
+149,KOR,South Korea,Asia,Eastern Asia,https://public.flourish.studio/country-flags/svg/kr.svg,Seoul,"98,480.00","51,635,256",AS,"[""Korea (Democratic People's Republic of)""]"
+150,LKA,Sri Lanka,Asia,Southern Asia,https://public.flourish.studio/country-flags/svg/lk.svg,Colombo,"65,610.00","21,670,000",AS,
+151,SYR,Syria,Asia,Western Asia,https://public.flourish.studio/country-flags/svg/sy.svg,Damascus,"185,180.00","16,906,283",AS,"['Iraq', 'Israel', 'Jordan', 'Lebanon', 'Turkey']"
+152,TJK,Tajikistan,Asia,Central Asia,https://public.flourish.studio/country-flags/svg/tj.svg,Dushanbe,"143,100.00","9,100,837",AS,"['Afghanistan', 'China', 'Kyrgyzstan', 'Uzbekistan']"
+153,THA,Thailand,Asia,South-eastern Asia,https://public.flourish.studio/country-flags/svg/th.svg,Bangkok,"514,000.00","69,428,524",AS,"['Cambodia', ""Lao People's Democratic Republic"", 'Malaysia', 'Myanmar']"
+154,TUR,Turkey,Asia,Western Asia,https://public.flourish.studio/country-flags/svg/tr.svg,Ankara,"780,580.00","82,319,724",AS,"['Armenia', 'Azerbaijan', 'Bulgaria', 'Georgia', 'Greece', 'Iran (Islamic Republic of)', 'Iraq', 'Syrian Arab Republic']"
+155,TKM,Turkmenistan,Asia,Central Asia,https://public.flourish.studio/country-flags/svg/tm.svg,Ashgabat,"488,100.00","5,850,908",AS,"['Afghanistan', 'Iran (Islamic Republic of)', 'Kazakhstan', 'Uzbekistan']"
+156,ARE,United Arab Emirates,Asia,Western Asia,https://public.flourish.studio/country-flags/svg/ae.svg,Abu Dhabi,"82,880.00","9,630,959",AS,"['Oman', 'Saudi Arabia']"
+157,UZB,Uzbekistan,Asia,Central Asia,https://public.flourish.studio/country-flags/svg/uz.svg,Tashkent,"447,400.00","32,955,400",AS,"['Afghanistan', 'Kazakhstan', 'Kyrgyzstan', 'Tajikistan', 'Turkmenistan']"
+158,VNM,Vietnam,Asia,South-eastern Asia,https://public.flourish.studio/country-flags/svg/vn.svg,Hanoi,"329,560.00","95,540,395",AS,"['Cambodia', 'China', ""Lao People's Democratic Republic""]"
+159,YEM,Yemen,Asia,Western Asia,https://public.flourish.studio/country-flags/svg/ye.svg,Sanaa,"527,970.00","28,498,687",AS,"['Oman', 'Saudi Arabia']"
+160,ALB,Albania,Europe,Southern Europe,https://public.flourish.studio/country-flags/svg/al.svg,Tirana,"28,748.00","2,866,376",EU,"['Greece', 'Montenegro', 'North Macedonia', 'Serbia']"
+161,AND,Andorra,Europe,Southern Europe,https://public.flourish.studio/country-flags/svg/ad.svg,Andorra la Vella,468,"77,006",EU,"['France', 'Spain']"
+162,AUT,Austria,Europe,Western Europe,https://public.flourish.studio/country-flags/svg/at.svg,Vienna,"83,858.00","8,847,037",EU,"['Czechia', 'Germany', 'Hungary', 'Italy', 'Liechtenstein', 'Slovakia', 'Slovenia', 'Switzerland']"
+163,BLR,Belarus,Europe,Eastern Europe,https://public.flourish.studio/country-flags/svg/by.svg,Minsk,"207,600.00","9,485,386",EU,"['Latvia', 'Lithuania', 'Poland', 'Russian Federation', 'Ukraine']"
+164,BEL,Belgium,Europe,Western Europe,https://public.flourish.studio/country-flags/svg/be.svg,Brussels,"30,510.00","11,422,068",EU,"['France', 'Germany', 'Luxembourg', 'Netherlands']"
+165,BIH,Bosnia and Herzegovina,Europe,Southern Europe,https://public.flourish.studio/country-flags/svg/ba.svg,Sarajevo,"51,129.00","3,323,929",EU,"['Croatia', 'Montenegro', 'Serbia']"
+166,BGR,Bulgaria,Europe,Eastern Europe,https://public.flourish.studio/country-flags/svg/bg.svg,Sofia,"110,910.00","7,000,039",EU,"['Greece', 'North Macedonia', 'Romania', 'Serbia', 'Turkey']"
+167,HRV,Croatia,Europe,Southern Europe,https://public.flourish.studio/country-flags/svg/hr.svg,Zagreb,"56,542.00","4,089,400",EU,"['Bosnia and Herzegovina', 'Hungary', 'Montenegro', 'Serbia', 'Slovenia']"
+168,CZE,Czech Republic,Europe,Eastern Europe,https://public.flourish.studio/country-flags/svg/cz.svg,Prague,"78,866.00","10,625,695",EU,"['Austria', 'Germany', 'Poland', 'Slovakia']"
+169,DNK,Denmark,Europe,Northern Europe,https://public.flourish.studio/country-flags/svg/dk.svg,Copenhagen,"43,094.00","5,797,446",EU,['Germany']
+170,EST,Estonia,Europe,Northern Europe,https://public.flourish.studio/country-flags/svg/ee.svg,Tallinn,"45,226.00","1,320,884",EU,"['Latvia', 'Russian Federation']"
+171,FRO,Faroe Islands,Europe,Northern Europe,https://public.flourish.studio/country-flags/svg/fo.svg,Torshavn,"1,399.00","48,497",EU,
+172,FIN,Finland,Europe,Northern Europe,https://public.flourish.studio/country-flags/svg/fi.svg,Helsinki,"337,030.00","5,518,050",EU,"['Norway', 'Russian Federation', 'Sweden']"
+173,FRA,France,Europe,Western Europe,https://public.flourish.studio/country-flags/svg/fr.svg,Paris,"547,030.00","66,987,244",EU,"['Andorra', 'Belgium', 'Germany', 'Italy', 'Luxembourg', 'Monaco', 'Spain', 'Switzerland']"
+174,DEU,Germany,Europe,Western Europe,https://public.flourish.studio/country-flags/svg/de.svg,Berlin,"357,021.00","82,927,922",EU,"['Austria', 'Belgium', 'Czechia', 'Denmark', 'France', 'Luxembourg', 'Netherlands', 'Poland', 'Switzerland']"
+175,GIB,Gibraltar,Europe,Southern Europe,https://public.flourish.studio/country-flags/svg/gi.svg,Gibraltar,6.5,"33,718",EU,['Spain']
+176,GRC,Greece,Europe,Southern Europe,https://public.flourish.studio/country-flags/svg/gr.svg,Athens,"131,940.00","10,727,668",EU,"['Albania', 'Bulgaria', 'North Macedonia', 'Turkey']"
+177,GGY,Guernsey,Europe,Northern Europe,https://public.flourish.studio/country-flags/svg/gg.svg,St Peter Port,78,"65,228",EU,
+178,HUN,Hungary,Europe,Eastern Europe,https://public.flourish.studio/country-flags/svg/hu.svg,Budapest,"93,030.00","9,768,785",EU,"['Austria', 'Croatia', 'Romania', 'Serbia', 'Slovakia', 'Slovenia', 'Ukraine']"
+179,ISL,Iceland,Europe,Northern Europe,https://public.flourish.studio/country-flags/svg/is.svg,Reykjavik,"103,000.00","353,574",EU,
+180,IRL,Ireland,Europe,Northern Europe,https://public.flourish.studio/country-flags/svg/ie.svg,Dublin,"70,280.00","4,853,506",EU,['United Kingdom of Great Britain and Northern Ireland']
+181,IMN,Isle of Man,Europe,Northern Europe,https://public.flourish.studio/country-flags/svg/im.svg,Douglas,572,"84,077",EU,
+182,ITA,Italy,Europe,Southern Europe,https://public.flourish.studio/country-flags/svg/it.svg,Rome,"301,230.00","60,431,283",EU,"['Austria', 'France', 'San Marino', 'Slovenia', 'Switzerland', 'Holy See']"
+183,JEY,Jersey,Europe,Northern Europe,https://public.flourish.studio/country-flags/svg/je.svg,Saint Helier,116,"90,812",EU,
+184,LVA,Latvia,Europe,Northern Europe,https://public.flourish.studio/country-flags/svg/lv.svg,Riga,"64,589.00","1,926,542",EU,"['Belarus', 'Estonia', 'Lithuania', 'Russian Federation']"
+185,LIE,Liechtenstein,Europe,Western Europe,https://public.flourish.studio/country-flags/svg/li.svg,Vaduz,160,"37,910",EU,"['Austria', 'Switzerland']"
+186,LTU,Lithuania,Europe,Northern Europe,https://public.flourish.studio/country-flags/svg/lt.svg,Vilnius,"65,200.00","2,789,533",EU,"['Belarus', 'Latvia', 'Poland', 'Russian Federation']"
+187,LUX,Luxembourg,Europe,Western Europe,https://public.flourish.studio/country-flags/svg/lu.svg,Luxembourg,"2,586.00","607,728",EU,"['Belgium', 'Germany', 'France']"
+188,MLT,Malta,Europe,Southern Europe,https://public.flourish.studio/country-flags/svg/mt.svg,Valletta,316,"483,530",EU,
+189,MDA,Moldova,Europe,Eastern Europe,https://public.flourish.studio/country-flags/svg/md.svg,Chisinau,"33,843.00","3,545,883",EU,"['Romania', 'Ukraine']"
+190,MCO,Monaco,Europe,Western Europe,https://public.flourish.studio/country-flags/svg/mc.svg,Monaco,1.9,"38,682",EU,['France']
+191,MNE,Montenegro,Europe,Southern Europe,https://public.flourish.studio/country-flags/svg/me.svg,Podgorica,"14,026.00","622,345",EU,"['Albania', 'Bosnia and Herzegovina', 'Croatia', 'Serbia']"
+192,NLD,Netherlands,Europe,Western Europe,https://public.flourish.studio/country-flags/svg/nl.svg,Amsterdam,"41,526.00","17,231,017",EU,"['Belgium', 'Germany']"
+193,NLD,Netherlands,Europe,Western Europe,https://public.flourish.studio/country-flags/svg/nl.svg,Amsterdam,"41,526.00","17,231,017",EU,"['Belgium', 'Germany']"
+194,NLD,Netherlands,Europe,Western Europe,https://public.flourish.studio/country-flags/svg/nl.svg,Amsterdam,"41,526.00","17,231,017",EU,"['Belgium', 'Germany']"
+195,NLD,Netherlands,Europe,Western Europe,https://public.flourish.studio/country-flags/svg/nl.svg,Amsterdam,"41,526.00","17,231,017",EU,"['Belgium', 'Germany']"
+196,NOR,Norway,Europe,Northern Europe,https://public.flourish.studio/country-flags/svg/no.svg,Oslo,"324,220.00","5,314,336",EU,"['Finland', 'Russian Federation', 'Sweden']"
+197,POL,Poland,Europe,Eastern Europe,https://public.flourish.studio/country-flags/svg/pl.svg,Warsaw,"312,685.00","37,978,548",EU,"['Belarus', 'Czechia', 'Germany', 'Lithuania', 'Russian Federation', 'Slovakia', 'Ukraine']"
+198,PRT,Portugal,Europe,Southern Europe,https://public.flourish.studio/country-flags/svg/pt.svg,Lisbon,"92,391.00","10,281,762",EU,['Spain']
+199,MKD,Republic of Macedonia,Europe,Southern Europe,https://public.flourish.studio/country-flags/svg/mk.svg,Skopje,"25,333.00","2,082,958",EU,"['Albania', 'Bulgaria', 'Greece', 'Serbia']"
+200,ROU,Romania,Europe,Eastern Europe,https://public.flourish.studio/country-flags/svg/ro.svg,Bucharest,"237,500.00","19,473,936",EU,"['Bulgaria', 'Hungary', 'Moldova (the Republic of)', 'Serbia', 'Ukraine']"
+201,RUS,Russia,Europe,Eastern Europe,https://public.flourish.studio/country-flags/svg/ru.svg,Moscow,"17,100,000.00","144,478,050",EU,"['Azerbaijan', 'Belarus', 'China', 'Estonia', 'Finland', 'Georgia', 'Kazakhstan', ""Korea (Democratic People's Republic of)"", 'Latvia', 'Lithuania', 'Mongolia', 'Norway', 'Poland', 'Ukraine']"
+202,SMR,San Marino,Europe,Southern Europe,https://public.flourish.studio/country-flags/svg/sm.svg,San Marino,61.2,"33,785",EU,['Italy']
+203,SRB,Serbia,Europe,Southern Europe,https://public.flourish.studio/country-flags/svg/rs.svg,Belgrade,"88,361.00","6,982,084",EU,"['Albania', 'Bosnia and Herzegovina', 'Bulgaria', 'Croatia', 'Hungary', 'Montenegro', 'North Macedonia', 'Romania']"
+204,SVK,Slovakia,Europe,Eastern Europe,https://public.flourish.studio/country-flags/svg/sk.svg,Bratislava,"48,845.00","5,447,011",EU,"['Austria', 'Czechia', 'Hungary', 'Poland', 'Ukraine']"
+205,SVN,Slovenia,Europe,Southern Europe,https://public.flourish.studio/country-flags/svg/si.svg,Ljubljana,"20,273.00","2,067,372",EU,"['Austria', 'Croatia', 'Hungary', 'Italy']"
+206,ESP,Spain,Europe,Southern Europe,https://public.flourish.studio/country-flags/svg/es.svg,Madrid,"504,782.00","46,723,749",EU,"['Andorra', 'France', 'Gibraltar', 'Morocco', 'Portugal']"
+207,SWE,Sweden,Europe,Northern Europe,https://public.flourish.studio/country-flags/svg/se.svg,Stockholm,"449,964.00","10,183,175",EU,"['Finland', 'Norway']"
+208,CHE,Switzerland,Europe,Western Europe,https://public.flourish.studio/country-flags/svg/ch.svg,Bern,"41,290.00","8,516,543",EU,"['Austria', 'France', 'Germany', 'Italy', 'Liechtenstein']"
+209,UKR,Ukraine,Europe,Eastern Europe,https://public.flourish.studio/country-flags/svg/ua.svg,Kyiv,"603,700.00","44,622,516",EU,"['Belarus', 'Hungary', 'Moldova (the Republic of)', 'Poland', 'Romania', 'Russian Federation', 'Slovakia']"
+210,GBR,United Kingdom,Europe,Northern Europe,https://public.flourish.studio/country-flags/svg/gb.svg,London,"244,820.00","66,488,991",EU,['Ireland']
+211,VAT,Vatican City,Europe,Southern Europe,https://public.flourish.studio/country-flags/svg/va.svg,Vatican City,0.4,921,EU,['Italy']
+212,ASM,American Samoa,Oceania,Polynesia,https://public.flourish.studio/country-flags/svg/as.svg,Pago Pago,199,"55,465",OC,
+213,AUS,Australia,Oceania,Australia and New Zealand,https://public.flourish.studio/country-flags/svg/au.svg,Canberra,"7,686,850.00","24,992,369",OC,
+214,COK,Cook Islands,Oceania,Polynesia,https://public.flourish.studio/country-flags/svg/ck.svg,Avarua,240,"21,388",OC,
+215,FSM,Federated States of Micronesia,Oceania,Micronesia,https://public.flourish.studio/country-flags/svg/fm.svg,Palikir,702,"112,640",OC,
+216,FJI,Fiji,Oceania,Melanesia,https://public.flourish.studio/country-flags/svg/fj.svg,Suva,"18,270.00","883,483",OC,
+217,PYF,French Polynesia,Oceania,Polynesia,https://public.flourish.studio/country-flags/svg/pf.svg,Papeete,"4,167.00","277,679",OC,
+218,GUM,Guam,Oceania,Micronesia,https://public.flourish.studio/country-flags/svg/gu.svg,Hagatna,549,"165,768",OC,
+219,HMD,Heard Island and McDonald Islands,Oceania,Australia and New Zealand,https://public.flourish.studio/country-flags/svg/hm.svg,,412,0,AN,
+220,KIR,Kiribati,Oceania,Micronesia,https://public.flourish.studio/country-flags/svg/ki.svg,Tarawa,811,"115,847",OC,
+221,MHL,Marshall Islands,Oceania,Micronesia,https://public.flourish.studio/country-flags/svg/mh.svg,Majuro,181.3,"58,413",OC,
+222,NRU,Nauru,Oceania,Micronesia,https://public.flourish.studio/country-flags/svg/nr.svg,Yaren,21,"12,704",OC,
+223,NCL,New Caledonia,Oceania,Melanesia,https://public.flourish.studio/country-flags/svg/nc.svg,Noumea,"19,060.00","284,060",OC,
+224,NZL,New Zealand,Oceania,Australia and New Zealand,https://public.flourish.studio/country-flags/svg/nz.svg,Wellington,"268,680.00","4,885,500",OC,
+225,NZL,New Zealand,Oceania,Australia and New Zealand,https://public.flourish.studio/country-flags/svg/nz.svg,Wellington,"268,680.00","4,885,500",OC,
+226,NIU,Niue,Oceania,Polynesia,https://public.flourish.studio/country-flags/svg/nu.svg,Alofi,260,"2,166",OC,
+227,NFK,Norfolk Island,Oceania,Australia and New Zealand,https://public.flourish.studio/country-flags/svg/nf.svg,Kingston,34.6,"1,828",OC,
+228,MNP,Northern Mariana Islands,Oceania,Micronesia,https://public.flourish.studio/country-flags/svg/mp.svg,Saipan,477,"56,882",OC,
+229,PLW,Palau,Oceania,Micronesia,https://public.flourish.studio/country-flags/svg/pw.svg,Melekeok,458,"17,907",OC,
+230,PNG,Papua New Guinea,Oceania,Melanesia,https://public.flourish.studio/country-flags/svg/pg.svg,Port Moresby,"462,840.00","8,606,316",OC,['Indonesia']
+231,PCN,Pitcairn Islands,Oceania,Polynesia,https://public.flourish.studio/country-flags/svg/pn.svg,Adamstown,47,46,OC,
+232,WSM,Samoa,Oceania,Polynesia,https://public.flourish.studio/country-flags/svg/ws.svg,Apia,"2,944.00","196,130",OC,
+233,SLB,Solomon Islands,Oceania,Melanesia,https://public.flourish.studio/country-flags/svg/sb.svg,Honiara,"28,450.00","652,858",OC,
+234,TON,Tonga,Oceania,Polynesia,https://public.flourish.studio/country-flags/svg/to.svg,Nuku'alofa,748,"103,197",OC,
+235,TUV,Tuvalu,Oceania,Polynesia,https://public.flourish.studio/country-flags/svg/tv.svg,Funafuti,26,"11,508",OC,
+236,VUT,Vanuatu,Oceania,Melanesia,https://public.flourish.studio/country-flags/svg/vu.svg,Port Vila,"12,200.00","292,680",OC,
+237,WLF,Wallis and Futuna,Oceania,Polynesia,https://public.flourish.studio/country-flags/svg/wf.svg,Mata Utu,274,"16,025",OC,
